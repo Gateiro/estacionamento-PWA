@@ -5,7 +5,7 @@
 ![Backend: Firebase](https://img.shields.io/badge/Firebase-B.1.0-orange?logo=firebase)
 ![Estilo: TailwindCSS](https://img.shields.io/badge/TailwindCSS-4-blueviolet?logo=tailwindcss)
 
-### 🚀 [Clique aqui para ver a aplicação ao vivo!](https://estacionamento-pwa-f1699.web.app)
+<h3>🚀 <a href="https://estacionamento-pwa-f1699.web.app" target="_blank" rel="noopener noreferrer">Clique aqui para ver a aplicação ao vivo!</a></h3>
 
 ---
 
