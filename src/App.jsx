@@ -1,17 +1,17 @@
-import { BrowserRouter, Route, Routes } from 'react-router-dom'
-import './App.css'
+import React from 'react';
+import { Outlet } from 'react-router-dom';
+import ThemeToggle from './components/ThemeToggle.jsx';
 
 function App() {
-
   return (
-    <BrowserRouter>
-      <Routes>
-        <Route path= './' element={<Login/>} />
-        <Route path= './home' element={<Home/>} />
-        <Route path= '*' element={<h1>Not Found</h1>} />
-      </Routes>
-    </BrowserRouter>
-  )
+    <>
+      <ThemeToggle />
+
+      <main>
+        <Outlet />
+      </main>
+    </>
+  );
 }
 
-export default App
+export default App;
