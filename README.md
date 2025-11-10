@@ -19,12 +19,13 @@ Para testar a aplicação, utilize as seguintes credenciais de teste (criadas no
 
 Este projeto é uma Aplicação Web Progressiva (PWA) completa para gerir a ocupação de vagas de um estacionamento em tempo real. A aplicação é protegida por autenticação, permitindo que apenas funcionários autorizados alterem o estado das vagas.
 
-### Screenshots da Aplicação
+## Screenshots da Aplicação
 
-| Página de Login |
-| <img width="1509" height="756" alt="image" src="https://github.com/user-attachments/assets/eb9c7363-3549-484f-a969-4ff0561225a9" /> | 
-| Painel de Vagas |
-|<img width="1575" height="701" alt="image" src="https://github.com/user-attachments/assets/9caf38b1-c8ab-4b1f-b9dc-b1e78d9015b6" /> |
+### Página de Login
+<img width="1509" height="756" alt="image" src="https://github.com/user-attachments/assets/eb9c7363-3549-484f-a969-4ff0561225a9" /> 
+
+### Painel de Vagas 
+<img width="1575" height="701" alt="image" src="https://github.com/user-attachments/assets/9caf38b1-c8ab-4b1f-b9dc-b1e78d9015b6" />
 
 ---
 
@@ -51,5 +52,7 @@ Esta é uma aplicação "JAMstack" moderna, separando o front-end (Vite/React) d
 * **Estilização:** [Tailwind CSS](https://tailwindcss.com/) + [DaisyUI](https://daisyui.com/)
 * **Hooks de Estado (Firebase):** `react-firebase-hooks` (para monitorizar o `useAuthState` em tempo real).
 
-📄 Licença
+---
+
+## 📄 Licença
 Este projeto é distribuído sob a licença MIT.
